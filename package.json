@@ -1,0 +1,8 @@
+{
+  "name": "express2",
+  "version": "1.0.0",
+  "description":"Express 2",
+  "dependencies": {
+    "express": "2.5.x"
+  }
+}
